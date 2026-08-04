@@ -9,7 +9,7 @@
 | **Affected System(s)** | |
 
 ## Issue Summary
-One or two sentences — what was reported/observed, in plain language a non-technical requester would understand.
+One or two sentences what was reported/observed, in plain language a non-technical requester would understand.
 
 ## Symptoms
 What did the user/system actually show? Exact error messages, screenshots, behavior.
@@ -25,7 +25,7 @@ What did the user/system actually show? Exact error messages, screenshots, behav
 | **User(s) affected** | |
 
 ## Troubleshooting Steps Taken
-Chronological. This is your investigation trail — include dead ends, not just what worked.
+Chronological. This is your investigation trail, include dead ends, not just what worked.
 
 1.
 2.
@@ -45,7 +45,7 @@ Exact steps taken to fix it. Include commands.
 How you confirmed it was actually resolved, not just "seemed to work."
 
 ## Prevention / Follow-up
-Anything to prevent recurrence — config change, monitoring, documentation update, user training.
+Anything to prevent recurrence such as config change, monitoring, documentation update, user training.
 
 ## Related Tickets / KB Articles
 Link any related issues if this is part of a pattern.
