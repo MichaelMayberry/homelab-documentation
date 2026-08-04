@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/homelab-logo.png" width="120" height="120" alt="homelab.local logo">
-</p>
 
 <h1 align="center">Homelab Documentation</h1>
 <p align="center"><strong>HOMELAB.LOCAL — SOC & IT Operations Practice Lab</strong></p>
@@ -11,16 +8,9 @@ Documentation for a home lab built for hands-on SOC analyst and IT help desk pra
 
 | Folder | Purpose |
 |---|---|
-| [`tickets/`](./tickets) | Troubleshooting log — real issues encountered in the lab, documented in a ticket/KB-article format (symptoms, root cause, resolution, prevention) |
-| [`configs/`](./configs) | Configuration write-ups for services set up in the lab (integrations, installs, settings) |
-| [`assets/`](./assets) | Logos and shared images |
+| [`Troubleshooting Documentation/`](./troubleshooting_docs) | Troubleshooting log — real issues encountered in the lab, documented in a ticket/KB-article format (symptoms, root cause, resolution, prevention) |
+| [`Configuration_Documentation/`](./configuration_docs) | Configuration write-ups for services set up in the lab (integrations, installs, settings) |
 
-Each ticket/config entry lives in its own folder alongside the screenshots referenced in it, e.g.:
-```
-tickets/ticket-001-winbind-auth-failure/
-├── ticket-001-winbind-auth-failure.md
-└── (screenshots referenced in the writeup)
-```
 
 ## Lab Environment
 
